@@ -1,0 +1,5 @@
+﻿azure-identity
+azure-mgmt-web
+azure-mgmt-sql
+azure-mgmt-storage
+azure-mgmt-apimanagement
